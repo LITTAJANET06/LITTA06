@@ -376,14 +376,6 @@ main {
     box-shadow: 0 6px 20px rgba(0,0,0,0.15);
 }
 
-.project-img {
-    width: 100%;
-    max-height: 550px;
-    object-fit: cover;
-    border-radius: 8px;
-    margin-bottom: 12px;
-}
-
 /* Contact Links */
 .contact-section a {
     color: #0077cc;
